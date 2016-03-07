@@ -1,0 +1,5 @@
+rootProject.name = 'microservices-demo'
+include 'registration-server'
+include 'account-service'
+include 'web-service'
+
